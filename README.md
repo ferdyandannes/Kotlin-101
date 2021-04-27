@@ -1,2 +1,1 @@
-# Kotlin-101
-All about files that related to learn kotlin
+Repository ini memuat daftar contoh kode dan latihan yang ada pada kelas **Memulai Pemrograman dengan Kotlin**
